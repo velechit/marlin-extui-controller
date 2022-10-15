@@ -8,9 +8,9 @@ the Ender 3 housing.
 
 ## TODO List
 
-- [ ] Breadboard Circuit preparation
-- [ ] Firmware development
-- [ ] PCB Design
+- [ ] Breadboard Circuit preparation
+- [ ] Firmware development
+- [ ] PCB Design
 - [ ] PCB fabrication
 - [ ] Assembly
 - [ ] Testing
